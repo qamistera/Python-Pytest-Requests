@@ -1,5 +1,4 @@
 import requests
-import pytest
 
 URL = 'https://api.pokemonbattle.ru/v2'
 TOKKEN = '7e6eb17127ec9bb4c87a6ddb0e051c7c'
